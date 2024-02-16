@@ -1,3 +1,4 @@
+------home.html------
 <html> 
 <head>
 <title>My  FirSt HTML Page</title>
@@ -81,7 +82,7 @@
 
 
 --------------------for registration form--------------
-
+----reg.html======
 <html><head>
 <title>REGISTRATION FORM </title>
 <CENTER><h2>REGISTRATION</H2>
