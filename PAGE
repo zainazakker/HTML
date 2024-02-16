@@ -74,3 +74,60 @@
 <a href="REG.html">Click Here For Register!</a>
 </body>
 </html>
+
+
+
+
+
+
+--------------------for registration form--------------
+
+<html><head>
+<title>REGISTRATION FORM </title>
+<CENTER><h2>REGISTRATION</H2>
+<form>
+<body bgcolor="lightblue">
+<label> FirstName</label>         
+<input type="text" name="FirstName" size="15"/> <br> <br>  
+<label> MiddleName: </label>     
+<input type="text" name="MiddleName" size="15"/> <br> <br>  
+<label> LastName: </label>         
+<input type="text" name="LastName" size="15"/> <br> <br> 
+<label> Email: </label>         
+<input type="text" name="Email" size="15"/> <br> <br> 
+
+<label> Password: </label>         
+<input type="Password" name="Password" size="15"/> <br> <br> 
+<label> Confirm Password: </label>         
+<input type="Password" name="Confirm Password" size="15"/> <br> <br> 
+
+
+<label> Gender:</label>
+ <label>Male:   </label> 
+<input type="radio" name="male">
+<label>   Female: </label>         
+<input type="radio" name="Female"><br><br>
+
+<label>
+Course:
+</label>
+<select>
+<option value="Course">courses</option>
+ <option value="MCA">MCA</option>
+ <option value="MBA">MBA</option>
+ <option value="B.TECH">B.TECH</option>
+ <option value="M.TECH">M.TECH</option>
+ <option value="PH.D">PH.D</option>
+ </select><BR><BR>
+ <input type="submit" value="SUBMIT"> 
+ </CENTER>
+ </form>
+ </label>
+ </body>
+ </head>
+ <BODY>
+ <h1 style="color:blue;font-family:arial;font-size:300%">This is a form</h1>
+ <p style="color:red;font-family:courier;font-size:160%">This is a Paragraph</p>
+</body>
+</html>
+ 
