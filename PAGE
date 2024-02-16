@@ -1,0 +1,76 @@
+<html> 
+<head>
+<title>My  FirSt HTML Page</title>
+</head>
+<body bgcolor="lightgreen">
+<h1><center><b>Mangalam College Of Engineering</h1></center><hr></b>
+<h1><marquee><mark>ADMISSION STARTED</marquee></h1><mark>
+<p>Mangalam College of Engineering (MLM) was established in 2002, is located in Ettumanoor, Kerala. <br>MLM is approved by the All India Council for Technical Education (AICTE) and affiliated to theAPJ Abdul Kalam Technological University in Kerala.<br> MLM is promoted by the Mangalam Educational Society. MLM has received National Assessment and Accreditation Council (NAAC) <br>with A grade and NBA accreditation for CSE, CE, ME and ECE course.<br>
+<strike>Nursing</strike></p></i>
+<h4> <mark>Our Courses: </h4></mark>
+<ul type="disc">
+<li>MCA</li>
+<li>MBA</li>
+<li>B.TECH</li>
+<li>M.TECH</li>
+<li>PH.D</li>
+</ol>
+<dl>
+<dt>MCA</dt>
+<dd>Master Of Computer Application</dd>
+</dl>
+
+<dt>MBA</dt>
+<dd>Master Of Business Administrarion</dd>
+</dl>
+
+<dt>B.TECH</dt>
+<dd>Bachelor of Technology </dd>
+</dl>
+
+<dt>M.TECH</dt>
+<dd>Master of Technology </dd>
+</dl>
+
+<dt>PH.D</dt>
+<dd>Doctor of Philosophy </dd>
+</dl>
+
+<TABLE border="1">
+<tr>
+<th>Course</th>
+<th>Duration</th>
+</tr>
+
+<tr>
+<td>MCA</TD>
+<td>2 Years</td>
+</tr>
+
+<tr>
+<td>MBA</TD>
+<td>2 Years</td>
+</tr>
+
+<tr>
+<td>B.TECH</TD>
+<td>4 Years</td>
+</tr>
+
+<tr>
+<td>M.TECH</TD>
+<td>2 Years</td>
+</tr>
+
+<tr>
+<td>PH.D</TD>
+<td>3 Years</td>
+</tr>
+<br>
+</table>
+
+<center><img src="C:\Users\mlm\Desktop\mglm.webp" width="800" height="400"></center>
+<br><br>
+<a href="REG.html">Click Here For Register!</a>
+</body>
+</html>
