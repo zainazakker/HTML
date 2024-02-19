@@ -120,7 +120,14 @@ Course:
  <option value="M.TECH">M.TECH</option>
  <option value="PH.D">PH.D</option>
  </select><BR><BR>
- <input type="submit" value="SUBMIT"> 
+<input type="submit" value="SUBMIT" onclick="hello()"> 
+ <script>
+function hello(){
+window.alert("REGISTRATION SUCCESSFULL")
+}
+</script>
+
+
  </CENTER>
  </form>
  </label>
